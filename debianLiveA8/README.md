@@ -96,17 +96,17 @@ If there were no reported errors, your media device will have three partitions (
 
 ## Changelog v0.0.1a
 ```
-	- Initial Release
+  - Initial Release
 ```
 
 ## Known Issues
 ```
-	- hard-coded media device
-	- hard-coded users/passwords
-	- multiple scripts
-	- no internal tests
-	- elementary readme 
-	- library version locking (if required)
+  - hard-coded media device
+  - hard-coded users/passwords
+  - multiple scripts
+  - no internal tests
+  - elementary readme 
+  - library version locking (if required)
   - untested on x86 architecture or i486 (like Intel Galileos)
   - need to add x86 (legacy) support
 ```
