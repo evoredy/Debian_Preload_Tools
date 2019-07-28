@@ -1,4 +1,4 @@
-# Welcome to a Debian Stretch Installer Tools
+# Welcome to a Debian Stretch Installer Toolset
 
 These utilities allow quick provisioning of hardware with Debian to allow FAST benchmarking, iteration, and product relese. Think improved "preseed."
 
